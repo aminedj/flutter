@@ -13,7 +13,7 @@ void main() {
           mainAxisAlignment: MainAxisAlignment.center,
           textDirection: TextDirection.ltr,
           children: const <Widget>[
-            FlutterLogo(size: 48),
+            FlutterLogo(size: 50),
             Padding(
               padding: EdgeInsets.all(32),
               child: Text(
